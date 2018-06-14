@@ -1,5 +1,5 @@
 {
-  "name": "@machinecoin-project/machinecore-lib",
+  "name": "machinecore-lib",
   "version": "0.15.5",
   "description": "A pure and powerful JavaScript Machinecoin library.",
   "author": "BitPay <dev@bitpay.com>",
